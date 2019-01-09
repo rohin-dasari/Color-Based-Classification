@@ -19,3 +19,6 @@ In order to attain the training data, the BGR (OpenCV uses BGR rather than RGB) 
 ![](https://github.com/rohin-dasari/Color-Based-Classification/blob/master/images/Figure_1.png)
 
 Our goal is to isolate as much of the green as we can and calculate the bounding area around our green region. If the plant is growing, over time, this bounding area should grow. If the plant is dying or experiencing drought stress, this bounding area should be decreasing. The effects of gravitropism are ignored for the most part because the current system in place for the garden involves a constant source of sunlight in a fixed place.  
+
+# Visualiing The Results
+Coming Soon!
